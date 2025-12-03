@@ -1,20 +1,23 @@
-# 📚 Panduan Aplikasi PPDB
+# User Guide PPDB
 
-## Download Panduan Pengguna:
-**[📥 Klik di sini untuk download PDF](USER GUIDE_20251201_193751_0000.pdf)**
+## 📄 Download Panduan Lengkap:
+[USER GUIDE_20251201_193751_0000.pdf](USER%20GUIDE_20251201_193751_0000.pdf)
 
-## Atau lihat langsung di browser:
-**[👁️ Klik di sini untuk lihat PDF online](https://github.com/Katanabulan/user-guide-ppdb/blob/main/PPDB_USER_GUIDE.pdf)**
-
----
-
-## Isi Panduan:
-1. **Pendahuluan** - Pengenalan aplikasi
-2. **Cara Registrasi** - Buat akun baru  
-3. **Cara Login** - Masuk ke aplikasi
-4. **Form Pendaftaran** - Isi data siswa
-5. **Cek Status** - Lihat hasil pendaftaran
+## 🔗 Link Langsung:
+https://github.com/Katanabulan/user-guide-ppdb/blob/main/USER%20GUIDE_20251201_193751_0000.pdf
 
 ---
 
-**Catatan:** File PDF sudah tersedia di repository ini.
+## 📋 Isi Panduan:
+1. **Pendahuluan** - Halaman 4
+2. **Beranda** - Halaman 5  
+3. **Registrasi** - Halaman 6-8
+4. **Login** - Halaman 9-10
+5. **Dashboard** - Halaman 11
+6. **Pendaftaran** - Halaman 12-13
+7. **Status** - Halaman 15
+8. **Profil** - Halaman 16
+
+---
+
+**ℹ️ Cara pakai:** Klik link di atas untuk lihat PDF langsung di browser.
