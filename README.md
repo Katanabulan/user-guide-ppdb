@@ -1,7 +1,7 @@
 # 📚 Panduan Aplikasi PPDB
 
 ## Download Panduan Pengguna:
-**[📥 Klik di sini untuk download PDF](PPDB_USER_GUIDE.pdf)**
+**[📥 Klik di sini untuk download PDF](USER GUIDE_20251201_193751_0000.pdf)**
 
 ## Atau lihat langsung di browser:
 **[👁️ Klik di sini untuk lihat PDF online](https://github.com/Katanabulan/user-guide-ppdb/blob/main/PPDB_USER_GUIDE.pdf)**
